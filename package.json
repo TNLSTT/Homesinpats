@@ -1,0 +1,9 @@
+{
+  "name": "homes-notifier",
+  "version": "1.0.0",
+  "description": "Simple listings notifier app without external dependencies",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
